@@ -94,7 +94,8 @@ This will automatically install java with Jenkins.
 13.Add build steps to build Docker image and create a container
 
 
-<img width="1524" alt="Screenshot 2023-08-20 at 7 30 34 PM" src="https://github.com/abdtarek/Jenkins-CI-CD-pipleline/assets/137318449/ae0132ac-b75b-4ea9-8589-272779c89aa4">
+<img width="1496" alt="Screenshot 2023-08-22 at 1 43 52 AM" src="https://github.com/abdtarek/Jenkins-CI-CD-pipleline/assets/137318449/5ec730f0-be3b-4390-80bc-d01cfe99d585">
+
 
 
 14.Trigger a build and check for success in the console output
@@ -152,7 +153,7 @@ Description: GitHub webhook integration
 <img width="1496" alt="Screenshot 2023-08-21 at 9 41 36 PM" src="https://github.com/abdtarek/Jenkins-CI-CD-pipleline/assets/137318449/3ccb3383-0c83-47e1-b0d9-9b1318899b68">
 
 
-now if we make changes in the code and push to GitHub to automatically trigger the pipeline and deploy the new code.
+### Now if we make changes in the code and push to GitHub to automatically trigger the pipeline and deploy the new code.
 
 
 
