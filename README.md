@@ -150,6 +150,10 @@ Description: GitHub webhook integration
 
 <img width="1496" alt="Screenshot 2023-08-21 at 9 41 21 PM" src="https://github.com/abdtarek/Jenkins-CI-CD-pipleline/assets/137318449/9395efad-ca44-4876-904c-bf33d4e1c656">
 
+
+19. Add Payload URL: http://<public_ip_of_ec2>:8080/github-webhook/
+
+    
 <img width="1496" alt="Screenshot 2023-08-21 at 9 41 36 PM" src="https://github.com/abdtarek/Jenkins-CI-CD-pipleline/assets/137318449/3ccb3383-0c83-47e1-b0d9-9b1318899b68">
 
 
