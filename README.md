@@ -65,7 +65,7 @@ This will automatically install java with Jenkins.
 
 <img width="1524" alt="Screenshot 2023-08-19 at 11 47 57 PM" src="https://github.com/abdtarek/Jenkins-CI-CD-pipleline/assets/137318449/1ea601df-b650-46ae-bd57-b7a6e8bf0229">
 
-### i made a mistake here and fixed it later, i'll show you how i troubleshooted it.
+
 
 9. Now, Copy the Public Ip of the machine and paste it to the browser to access the Jenkins portal. As,
 
